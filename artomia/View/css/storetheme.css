@@ -1,0 +1,18 @@
+:root {
+	--root-directory: url(/aau/wnm608/chen.nenqing/final_site);
+	--color-body: #f7f7f7;
+	--color-main: #000000;
+	--color-main-dark: #0d3f67;
+	--color-main-light: #000;
+}
+
+body {
+	color: var(--color-main);
+	background-color: var(--color-neutral-light);
+}
+
+a {
+	color: var(--color-main);
+}
+
+
